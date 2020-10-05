@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	//bool x;
+	
 	int x;
 	cin >> x;
 	
@@ -14,7 +14,6 @@ int main(){
 	}
 
 	
-	//cout << z << endl;
 	
 	return 0;
 }
