@@ -11,11 +11,11 @@ int main(){
 	cin >> b;
 	if (a > b)
 	{ 
-	cout << "a is greater than b";
+	cout << a << " is greater than " << b;
 	}	
 else
 {
-	cout << "b is greater than a";
+	cout << b << " is greater than " << a;
 }
 	
 	return 0;
