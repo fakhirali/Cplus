@@ -24,5 +24,5 @@ int main(){
 	cout << "The decimal equivalent is " << endl;
 	
 	cout << DecimalNum << endl;
-	
+	return 0;
 }
