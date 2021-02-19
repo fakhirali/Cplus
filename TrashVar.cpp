@@ -5,6 +5,7 @@ using namespace std;
 int main(){
 	
 	int x;
+	cout << "Enter the number of Trash Values you want" << endl;
 	cin >> x;
 	
 	int a[x];
